@@ -1,33 +1,33 @@
-# Python Practice Projects
+# Python Shopping List CLI
 
-This repository includes simple Python practice exercises and small projects that demonstrate foundational programming skills.
+## 📌 Overview
+A simple command-line Python app that lets the user:
+- add items
+- remove items
+- save the shopping list to JSON
+- load the list later
+- show the list with indexes
 
----
+## 🛠️ Tech Stack
+- Python
+- JSON
 
-## ✅ What’s Included
+## 🚀 Features
+1. Add item with prevention of duplicates
+2. View stored shopping list
+3. Remove item by index
+4. Persistent storage using JSON
 
-These are beginner-friendly Python examples and exercises focusing on:
-- Basic control flow (`if`, `while`, `for`)
-- Functions (`def`)
-- Lists and data structures
-- Simple validation and input handling
+## 🧠 What I Learned
+- Fundamentals of Python (loops, conditionals)
+- Working with lists and data persistence
+- Function design and modular code
+- User input validation
 
-Examples might include:
-- A CLI shopping list application
-- Simple scripts for practice
-- Basic data operations
+## ▶️ How to Run
+1. Clone the repo
+https://github.com/rezakh5833/python-shopping-list-cli.git
 
----
+2. Run the app:
 
-## 🛠 Skills Demonstrated
-- Python fundamentals
-- Logic building
-- Problem solving with code
-- Clean and incremental development
-
----
-
-## 📌 How to Run
-Each Python file can be run from the terminal:
-```bash
-shoppinglist.py
+*Replace `main.py` with your exact script name*
